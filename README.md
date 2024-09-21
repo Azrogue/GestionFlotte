@@ -50,7 +50,7 @@ Les données sont persistées dans une base de données **SQLite**  à l'aide d'
 1. **Cloner le dépôt ou télécharger les fichiers du projet :** 
 
 ```bash
-git clone https://votre-repo.git
+git clone https://github.com/Azrogue/GestionFlotte.git
 ```
 *ou* téléchargez les fichiers directement.
  
